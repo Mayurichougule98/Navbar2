@@ -1,0 +1,34 @@
+
+body{
+    background-color: whitesmoke;
+}
+h2{
+   font-family: cursive;
+}
+header{
+    margin-top: 20px;
+    height: 60px;
+    width: 100%;
+    background-color: #459C98; 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+ul li{
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+ul li a{
+    text-decoration: none;
+    padding: 50px;
+    color: white;
+    font-size: large;
+}
+li a:hover{
+    background-color: whitesmoke;
+    color: #459C98;
+}
+
